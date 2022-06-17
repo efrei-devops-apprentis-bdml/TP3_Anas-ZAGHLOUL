@@ -4,6 +4,6 @@
 
 - Rapport en pdf qui explique le tp.
 
-- Bonus : 
+# Bonus : 
  - Add hadolint
  - Aucune données sensibles stockées dans l'image
